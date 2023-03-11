@@ -1,7 +1,7 @@
 {
-  "id": "ru-ru",
-  "name": "ru-ru",
-  "title": "❄️ Russian Translation | Русский перевод",
+  "id": "ruaos",
+  "name": "ruaos",
+  "title": "ruaos",
   "description": "<p>Модуль перевода добавляет русский язык в Foundry VTT, системы Dungeons & Dragons 5, Call of Cthulhu (Зов Ктулху), Dungeon Crawl Classics, 13th Age, AoS: Soulbound, Alien (Чужой), AGE, Blades in the Dark (Клинки во тьме), City of Mist (Город Тумана), Coriolis (Кориолис), Cyberpunk RED, Cypher, Death in Space, Delta Green, Dungeon World, Forbidden Lands (Запретные земли), Vampire V5 (Вампиры: Маскарад), Genesys / Star Wars FFG, GUMSHOE, Mutants Year Zero (Мутанты. Точка Отсчёта), Old-School Essentials, Pathfinder 1e, Savage Worlds (Дневник Авантюриста), Shadow of the Demon Lord, Star Trek Adventures (Звёздный Путь), Starfinder, Tales from the Loop (Тайны Эхосферы), The One Ring 2e, Traveler / Cepheus Engine, Warhammer Fantasy Roleplay 4, The Witcher (Ведьмак) и множество модулей.</p><p><strong>ВНИМАНИЕ:</strong> Ознакомьтесь с инструкцией по корректной установке и настройке на <a href=\"https://github.com/Phenomen/foundry-vtt-ru\">https://github.com/Phenomen/foundry-vtt-ru</a></p>",
   "authors": [
     {
@@ -715,7 +715,6 @@
       "link": "https://github.com/phenomen/foundry-vtt-ru/raw/main/images/module/cover.jpg"
     }
   ],
-  "url": "https://github.com/mrdengin/11/blob/main/module.json",
-  "manifest": "https://github.com/mrdengin/11/edit/main/module.json",
-  "download": "https://github.com/phenomen/foundry-vtt-ru/archive/refs/heads/main.zip"
+  "url": "https://github.com/mrdengin/11",
+  "manifest": "https://github.com/mrdengin/11/raw/master/module.json",
 }
